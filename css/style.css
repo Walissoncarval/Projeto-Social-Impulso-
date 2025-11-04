@@ -25,7 +25,7 @@ nav ul li a {
   text-decoration: none;
   font-weight: bold;
 }
-#banner{
+banner{
   height: 20%;
 }
 main { padding: 1.5rem; max-width: 980px; margin: 0 auto; }

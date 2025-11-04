@@ -25,6 +25,9 @@ nav ul li a {
   text-decoration: none;
   font-weight: bold;
 }
+#banner{
+  height: 20%;
+}
 main { padding: 1.5rem; max-width: 980px; margin: 0 auto; }
 h1, h2 { color: #2E8B57; }
 footer { background: #222; color: #fff; text-align: center; padding: 1rem 0; margin-top: 2rem; }

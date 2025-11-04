@@ -27,6 +27,7 @@ nav ul li a {
 }
 banner{
   width: 200px;
+  height: 200px;
 }
 main { padding: 1.5rem; max-width: 980px; margin: 0 auto; }
 h1, h2 { color: #2E8B57; }
